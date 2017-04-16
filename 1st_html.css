@@ -1,0 +1,36 @@
+body {
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 20px;
+    background: url("http://wallpapercave.com/wp/KSteUAu.jpg");
+}
+
+h1 {
+    font-family: lobster, monospace;
+    color: red;
+}
+
+h3 {
+    font-family: lobster;
+    color: rgb(102, 43, 29);
+}
+
+h2 {
+    color: blue;
+    font-family: lobster;
+}
+
+h5 {
+    color: blue;
+    font-family: lobster, monospace;
+    font-size: 20px;
+    word-spacing: 5px;
+}
+
+p {
+    font-family: lobster;
+    font-size: 20px;
+}
+.img-responsive{
+  width: 100%;
+}
